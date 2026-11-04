@@ -47,7 +47,7 @@ def gql(query, **variables):
 
 u = gql(Q, login=USER)["user"]
 cc = u["contributionsCollection"]
-repos = [r for r in u["repositories"]["nodes"] if r["name"].lower() not in SKIP]
+repos = [r for r in u["repositories"]["nodes"] if r["name"].lower() not in SKIP and not r["name"].lower().endswith("-de")]
 stars = sum(r["stargazerCount"] for r in repos)
 langs = {}
 for r in repos:

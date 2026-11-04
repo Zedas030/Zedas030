@@ -57,6 +57,8 @@
 | 🏠 | **[homeassistant-automationen](https://github.com/Zedas030/homeassistant-automationen)** | Reusable automations: tablet battery care, watchdogs, alerts to the phone. |
 | 📺 | **[fire-tv-debloat](https://github.com/Zedas030/fire-tv-debloat)** | Debloat a Fire TV over ADB: ads, telemetry and bloatware gone, all reversible. |
 
+🇩🇪 Every project also exists in German: just add `-de` to the repo name, e.g. [jarvis-hud-de](https://github.com/Zedas030/jarvis-hud-de).
+
 ### 📈 My GitHub History
 
 <div align="center">
