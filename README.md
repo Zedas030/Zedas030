@@ -15,10 +15,10 @@
 <h1 align="center">Let's connect and have a chat! 💬</h1>
 
 <p align="center">
-  <a href="https://github.com/Zedas030"><img src="https://img.shields.io/badge/Follow-Zedas030-0d1117?style=for-the-badge&logo=github&logoColor=00d8ff&labelColor=0e7490" alt="Follow on GitHub"/></a>
-  <a href="https://github.com/Zedas030/Zedas030/discussions"><img src="https://img.shields.io/badge/Say-hi-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=00d8ff&labelColor=0e7490" alt="Say hi in Discussions"/></a>
-  <a href="https://github.com/Zedas030/Zedas030/issues/new"><img src="https://img.shields.io/badge/Ideas%20%26-feedback-0d1117?style=for-the-badge&logo=github&logoColor=00d8ff&labelColor=0e7490" alt="Ideas and feedback"/></a>
-  <a href="https://github.com/Zedas030?tab=repositories"><img src="https://img.shields.io/badge/Browse-repos-0d1117?style=for-the-badge&logo=git&logoColor=00d8ff&labelColor=0e7490" alt="Browse repositories"/></a>
+  <a href="https://github.com/Zedas030"><img src="https://img.shields.io/badge/Follow_on_GitHub-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+  <a href="https://github.com/Zedas030/Zedas030/discussions"><img src="https://img.shields.io/badge/Say_hi-0e7490?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Say hi in Discussions"/></a>
+  <a href="https://github.com/Zedas030/Zedas030/issues/new"><img src="https://img.shields.io/badge/Ideas_%26_feedback-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Ideas and feedback"/></a>
+  <a href="https://github.com/Zedas030?tab=repositories"><img src="https://img.shields.io/badge/Browse_repos-0e7490?style=for-the-badge&logo=git&logoColor=white" alt="Browse repositories"/></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ```yaml
 handle: Zedas030
-based_in: Germany 🇩🇪
+based_in: Germany
 speaks: [German, English, Python]
 coding_style: "Hobby developer: nights, weekends and way too much coffee"
 
@@ -43,7 +43,7 @@ fun_fact: "My apartment answers when I talk to it."
 ```
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="760" alt="Terminal with whoami, projects and uptime"/>
+  <img src="./assets/terminal.svg?v=en" width="760" alt="Terminal with whoami, projects and uptime"/>
 </div>
 
 ### 🛠️ Tech I build with
