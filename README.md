@@ -25,23 +25,6 @@
 
 <h2>👨🏻‍💻 &nbsp;A little bit about me</h2>
 
-```yaml
-handle: Zedas030
-based_in: Germany
-speaks: [German, English, Python]
-coding_style: "Hobby developer: nights, weekends and way too much coffee"
-
-fields_of_interest:
-  - Voice assistants & AI agents
-  - Smart home & home automation
-  - Homelab, monitoring & networking
-  - Solar power & batteries that regulate themselves
-  - Games that AI can play
-
-currently_building: "Jarvis 2.0: moving to its own server"
-fun_fact: "My apartment answers when I talk to it."
-```
-
 <div align="center">
   <img src="./assets/terminal.svg?v=en" width="760" alt="Terminal with whoami, projects and uptime"/>
 </div>
