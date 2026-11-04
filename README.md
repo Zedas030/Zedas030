@@ -4,13 +4,43 @@
   streak-stats, Platane/snk and my own stats script (scripts/gen_stats.py).
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:00d8ff&height=170&section=header&text=Zedas030&fontSize=58&fontColor=e6edf3&fontAlignY=36&desc=Smart%20Home%20%C2%B7%20Voice%20Assistants%20%C2%B7%20Homelab&descAlignY=58&descSize=18&animation=fadeIn" alt="Zedas030"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:00d8ff&height=170&section=header&text=Hello!%20%F0%9F%91%8B&fontSize=58&fontColor=e6edf3&fontAlignY=36&desc=Smart%20Home%20%C2%B7%20Voice%20Assistants%20%C2%B7%20Homelab&descAlignY=58&descSize=18&animation=fadeIn" alt="Hello!"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=900&color=00D8FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Zedas030+%F0%9F%91%8B;Building+my+own+Jarvis;My+Raspberry+Pi+runs+more+services+than+I+have+hobbies;Letting+AI+agents+build+cities;If+I+do+it+twice%2C+I+automate+it" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=900&color=00D8FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Zedas030;Building+my+own+Jarvis;My+Raspberry+Pi+runs+more+services+than+I+have+hobbies;Letting+AI+agents+build+cities;If+I+do+it+twice%2C+I+automate+it" alt="Typing SVG"/>
   </a>
 </div>
+
+<h1 align="center">Let's connect and have a chat! 💬</h1>
+
+<p align="center">
+  <a href="https://github.com/Zedas030"><img src="https://img.shields.io/badge/Follow-Zedas030-0d1117?style=for-the-badge&logo=github&logoColor=00d8ff&labelColor=0e7490" alt="Follow on GitHub"/></a>
+  <a href="https://github.com/Zedas030/Zedas030/discussions"><img src="https://img.shields.io/badge/Say-hi-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=00d8ff&labelColor=0e7490" alt="Say hi in Discussions"/></a>
+  <a href="https://github.com/Zedas030/Zedas030/issues/new"><img src="https://img.shields.io/badge/Ideas%20%26-feedback-0d1117?style=for-the-badge&logo=github&logoColor=00d8ff&labelColor=0e7490" alt="Ideas and feedback"/></a>
+  <a href="https://github.com/Zedas030?tab=repositories"><img src="https://img.shields.io/badge/Browse-repos-0d1117?style=for-the-badge&logo=git&logoColor=00d8ff&labelColor=0e7490" alt="Browse repositories"/></a>
+</p>
+
+---
+
+<h2>👨🏻‍💻 &nbsp;A little bit about me</h2>
+
+```yaml
+handle: Zedas030
+based_in: Germany 🇩🇪
+speaks: [German, English, Python]
+coding_style: "Hobby developer: nights, weekends and way too much coffee"
+
+fields_of_interest:
+  - Voice assistants & AI agents
+  - Smart home & home automation
+  - Homelab, monitoring & networking
+  - Solar power & batteries that regulate themselves
+  - Games that AI can play
+
+currently_building: "Jarvis 2.0: moving to its own server"
+fun_fact: "My apartment answers when I talk to it."
+```
 
 <div align="center">
   <img src="./assets/terminal.svg" width="760" alt="Terminal with whoami, projects and uptime"/>
