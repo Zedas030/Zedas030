@@ -44,7 +44,7 @@
 | 🏠 | **[homeassistant-automationen](https://github.com/Zedas030/homeassistant-automationen)** | Reusable automations: tablet battery care, watchdogs, alerts to the phone. |
 | 📺 | **[fire-tv-debloat](https://github.com/Zedas030/fire-tv-debloat)** | Debloat a Fire TV over ADB: ads, telemetry and bloatware gone, all reversible. |
 
-### 📊 Stats
+### 📈 My GitHub History
 
 <div align="center">
   <img width="49%" src="https://raw.githubusercontent.com/Zedas030/Zedas030/output/stats.svg" alt="GitHub stats"/>
@@ -54,8 +54,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Zedas030&theme=tokyonight&hide_border=true&background=0d1117&ring=00d8ff&fire=00d8ff&currStreakLabel=00d8ff" alt="Streak"/>
 </div>
-
-### 🐍 Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zedas030/Zedas030/output/github-contribution-grid-snake-dark.svg">
