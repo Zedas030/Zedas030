@@ -26,7 +26,7 @@
 <h2>👨🏻‍💻 &nbsp;A little bit about me</h2>
 
 <div align="center">
-  <img src="./assets/terminal.svg?v=en" width="760" alt="Terminal with whoami, projects and uptime"/>
+  <img src="./assets/terminal.svg?v=en2" width="760" alt="Terminal with whoami, projects and uptime"/>
 </div>
 
 ### 🛠️ Tech I build with
@@ -48,16 +48,15 @@
 
 | | Project | What it does |
 |:-:|---|---|
-| 🤖 | **[jarvis-hud](https://github.com/Zedas030/jarvis-hud)** | German-speaking voice assistant with a memory HUD, intent router and its own speech engine. Runs the apartment through Home Assistant. |
-| 🛰️ | **[orbit-netzwerkdoku](https://github.com/Zedas030/orbit-netzwerkdoku)** | Home network monitoring, network docs and security center on a Raspberry Pi. Three websites, no framework. |
+| 🤖 | **[jarvis-hud](https://github.com/Zedas030/jarvis-hud)** | Self-hosted voice assistant with memory, smart home control and a HUD, powered by the Claude Code CLI. |
+| 🧪 | **[restore-probe](https://github.com/Zedas030/restore-probe)** | Proves every night that backups can really be restored: restores them into an isolated sandbox and compares the data with production. |
 | 🗄️ | **[orbit-rack-demo](https://github.com/Zedas030/orbit-rack-demo)** | Interactive demo of a fictional homelab rack: network map, VLANs, power flow, events. |
-| ☀️ | **[solaris](https://github.com/Zedas030/solaris)** | Local energy dashboard for solar with battery storage. FastAPI + SQLite, data from MQTT, Prometheus or Home Assistant. |
 | 🔋 | **[noah-zero-export](https://github.com/Zedas030/noah-zero-export)** | Zero-export control for the Growatt NOAH 2000: drives the battery by household load, with watchdogs. |
 | 🏙️ | **[cs2-agent-helpers](https://github.com/Zedas030/cs2-agent-helpers)** | An AI agent builds cities in Cities: Skylines II: autopilot, grid building, service placement. |
-| 🏠 | **[homeassistant-automationen](https://github.com/Zedas030/homeassistant-automationen)** | Reusable automations: tablet battery care, watchdogs, alerts to the phone. |
+| 🏠 | **[homeassistant-automation](https://github.com/Zedas030/homeassistant-automation)** | Reusable automations: tablet battery care, watchdogs, alerts to the phone. |
 | 📺 | **[fire-tv-debloat](https://github.com/Zedas030/fire-tv-debloat)** | Debloat a Fire TV over ADB: ads, telemetry and bloatware gone, all reversible. |
 
-🇩🇪 Every project also exists in German: just add `-de` to the repo name, e.g. [jarvis-hud-de](https://github.com/Zedas030/jarvis-hud-de) (one exception: noah-zero-export is [noah-nulleinspeisung-de](https://github.com/Zedas030/noah-nulleinspeisung-de)).
+🇩🇪 German editions: [jarvis-hud-de](https://github.com/Zedas030/jarvis-hud-de) · [noah-nulleinspeisung-de](https://github.com/Zedas030/noah-nulleinspeisung-de) · [cs2-agent-helpers-de](https://github.com/Zedas030/cs2-agent-helpers-de) · [fire-tv-debloat-de](https://github.com/Zedas030/fire-tv-debloat-de) · [solaris-de](https://github.com/Zedas030/solaris-de) (local solar + battery dashboard, German only).
 
 ### 📈 My GitHub History
 
