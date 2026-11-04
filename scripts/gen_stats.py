@@ -52,11 +52,11 @@ for r in repos:
         langs[e["node"]["name"]] = langs.get(e["node"]["name"], 0) + e["size"]
 
 rows = [
-    ("⭐", "Sterne", stars),
-    ("📦", "Öffentliche Projekte", len(repos)),
-    ("🔨", "Commits (12 Monate)", cc["totalCommitContributions"]),
-    ("🔀", "Gemergte Pull Requests", u["pullRequests"]["totalCount"]),
-    ("📅", "Beiträge (12 Monate)", cc["contributionCalendar"]["totalContributions"]),
+    ("⭐", "Stars earned", stars),
+    ("📦", "Public projects", len(repos)),
+    ("🔨", "Commits (last year)", cc["totalCommitContributions"]),
+    ("🔀", "Merged pull requests", u["pullRequests"]["totalCount"]),
+    ("📅", "Contributions (last year)", cc["contributionCalendar"]["totalContributions"]),
 ]
 
 # --- stats.svg -----------------------------------------------------------
@@ -65,10 +65,10 @@ lines = []
 for i, (ico, label, val) in enumerate(rows):
     y = 72 + i * 26
     lines.append(f'<text x="28" y="{y}" fill="{FG}" style="{FONT};font-size:14px">{ico}  {escape(label)}</text>'
-                 f'<text x="{W - 28}" y="{y}" text-anchor="end" fill="{CYAN}" style="{FONT};font-size:15px;font-weight:700">{f"{val:,}".replace(",", ".")}</text>')
-stats = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="GitHub-Statistik">
+                 f'<text x="{W - 28}" y="{y}" text-anchor="end" fill="{CYAN}" style="{FONT};font-size:15px;font-weight:700">{f"{val:,}"}</text>')
+stats = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="GitHub stats">
 <rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="10" fill="{BG}" stroke="#30363d"/>
-<text x="28" y="38" fill="{CYAN}" style="{FONT};font-size:18px;font-weight:600">Statistik von {escape(USER)}</text>
+<text x="28" y="38" fill="{CYAN}" style="{FONT};font-size:18px;font-weight:600">{escape(USER)}'s GitHub stats</text>
 {"".join(lines)}
 </svg>'''
 
@@ -86,10 +86,10 @@ for i, (name, v) in enumerate(top):
     cy = 98 + (i // 2) * 28
     legend.append(f'<circle cx="{cx + 5}" cy="{cy - 5}" r="5" fill="{COLORS.get(name, DIM)}"/>'
                   f'<text x="{cx + 16}" y="{cy}" fill="{FG}" style="{FONT};font-size:13px">{escape(name)} '
-                  f'<tspan fill="{DIM}">{100 * v / total:.1f} %</tspan></text>')
-langs_svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Meistgenutzte Sprachen">
+                  f'<tspan fill="{DIM}">{100 * v / total:.1f}%</tspan></text>')
+langs_svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Most used languages">
 <rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="10" fill="{BG}" stroke="#30363d"/>
-<text x="28" y="38" fill="{CYAN}" style="{FONT};font-size:18px;font-weight:600">Meistgenutzte Sprachen</text>
+<text x="28" y="38" fill="{CYAN}" style="{FONT};font-size:18px;font-weight:600">Most used languages</text>
 <defs><clipPath id="b"><rect x="28" y="56" width="{W - 56}" height="10" rx="5"/></clipPath></defs>
 <g clip-path="url(#b)">{"".join(bar)}</g>
 {"".join(legend)}

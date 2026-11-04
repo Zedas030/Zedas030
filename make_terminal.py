@@ -25,16 +25,16 @@ PROMPT = "zedas@homelab:~$ "
 # (art, inhalt) – "cmd": getippter Befehl, "out": Ausgabe [(text, farbe), ...]
 script = [
     ("cmd", "whoami"),
-    ("out", [("Zedas030", CYAN), (" · Hobby-Entwickler · Smart-Home-Bastler · Homelab-Nerd", FG)]),
-    ("cmd", "cat projekte.txt"),
-    ("out", [("▸ ", CYAN), ("JARVIS  ", CYAN), ("Sprachassistent mit Gedächtnis, steuert die Wohnung", FG)]),
-    ("out", [("▸ ", CYAN), ("ORBIT   ", CYAN), ("Heimnetz-Monitoring & Sicherheitszentrale", FG)]),
-    ("out", [("▸ ", CYAN), ("SOLARIS ", CYAN), ("Energie-Dashboard für PV + Akku", FG)]),
-    ("out", [("▸ ", CYAN), ("CS2     ", CYAN), ("KI-Agent baut Städte in Cities: Skylines II", FG)]),
+    ("out", [("Zedas030", CYAN), (" · hobby developer · smart home tinkerer · homelab nerd", FG)]),
+    ("cmd", "cat projects.txt"),
+    ("out", [("▸ ", CYAN), ("JARVIS  ", CYAN), ("voice assistant with memory, runs my apartment", FG)]),
+    ("out", [("▸ ", CYAN), ("ORBIT   ", CYAN), ("home network monitoring & security center", FG)]),
+    ("out", [("▸ ", CYAN), ("SOLARIS ", CYAN), ("energy dashboard for solar + battery", FG)]),
+    ("out", [("▸ ", CYAN), ("CS2     ", CYAN), ("AI agent building cities in Cities: Skylines II", FG)]),
     ("cmd", "uptime"),
-    ("out", [("läuft seit dem ersten Raspberry Pi · ", DIM), ("Kaffee: ∞", GOLD)]),
+    ("out", [("up since my first Raspberry Pi · ", DIM), ("coffee: ∞", GOLD)]),
     ("cmd", "sudo make coffee"),
-    ("out", [("[sudo] ", DIM), ("Zugriff gewährt. Jarvis kocht schon.", GREEN)]),
+    ("out", [("[sudo] ", DIM), ("access granted. Jarvis is brewing.", GREEN)]),
 ]
 
 
@@ -79,7 +79,7 @@ parts.append(
 )
 H = y + 30
 
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Terminal: whoami, Projekte, uptime">
+svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Terminal: whoami, projects, uptime">
 <style>
 text{{font-family:'JetBrains Mono','Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace;font-size:{FS}px;white-space:pre}}
 .l{{opacity:0;animation:show .01s forwards}}

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="381" viewBox="0 0 820 381" role="img" aria-label="Terminal: whoami, Projekte, uptime">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="381" viewBox="0 0 820 381" role="img" aria-label="Terminal: whoami, projects, uptime">
 <style>
 text{font-family:'JetBrains Mono','Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace;font-size:15px;white-space:pre}
 .l{opacity:0;animation:show .01s forwards}
@@ -15,16 +15,16 @@ text{font-family:'JetBrains Mono','Cascadia Code','Fira Code',Consolas,'DejaVu S
 <circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="44" cy="19" r="6" fill="#ffbd2e"/><circle cx="64" cy="19" r="6" fill="#27c93f"/>
 <text x="410.0" y="24" text-anchor="middle" fill="#8b949e" style="font-size:13px">zedas@homelab: ~</text>
 <g class="l" style="animation-delay:0.40s"><text x="24" y="76" textLength="153" fill="#3fb950">zedas@homelab:~$ </text><text x="177" y="76" textLength="54" fill="#e6edf3">whoami</text><rect class="c" x="176" y="61" width="66" height="25" fill="#0d1117" style="--w:66px;animation:type 0.42s steps(6) 0.65s forwards"/></g>
-<text class="l" x="24" y="101" textLength="567" lengthAdjust="spacing" style="animation-delay:1.37s"><tspan fill="#00d8ff">Zedas030</tspan><tspan fill="#e6edf3"> · Hobby-Entwickler · Smart-Home-Bastler · Homelab-Nerd</tspan></text>
-<g class="l" style="animation-delay:1.59s"><text x="24" y="126" textLength="153" fill="#3fb950">zedas@homelab:~$ </text><text x="177" y="126" textLength="144" fill="#e6edf3">cat projekte.txt</text><rect class="c" x="176" y="111" width="156" height="25" fill="#0d1117" style="--w:156px;animation:type 1.12s steps(16) 1.84s forwards"/></g>
-<text class="l" x="24" y="151" textLength="549" lengthAdjust="spacing" style="animation-delay:3.26s"><tspan fill="#00d8ff">▸ </tspan><tspan fill="#00d8ff">JARVIS  </tspan><tspan fill="#e6edf3">Sprachassistent mit Gedächtnis, steuert die Wohnung</tspan></text>
-<text class="l" x="24" y="176" textLength="459" lengthAdjust="spacing" style="animation-delay:3.48s"><tspan fill="#00d8ff">▸ </tspan><tspan fill="#00d8ff">ORBIT   </tspan><tspan fill="#e6edf3">Heimnetz-Monitoring &amp; Sicherheitszentrale</tspan></text>
-<text class="l" x="24" y="201" textLength="369" lengthAdjust="spacing" style="animation-delay:3.70s"><tspan fill="#00d8ff">▸ </tspan><tspan fill="#00d8ff">SOLARIS </tspan><tspan fill="#e6edf3">Energie-Dashboard für PV + Akku</tspan></text>
-<text class="l" x="24" y="226" textLength="477" lengthAdjust="spacing" style="animation-delay:3.92s"><tspan fill="#00d8ff">▸ </tspan><tspan fill="#00d8ff">CS2     </tspan><tspan fill="#e6edf3">KI-Agent baut Städte in Cities: Skylines II</tspan></text>
+<text class="l" x="24" y="101" textLength="567" lengthAdjust="spacing" style="animation-delay:1.37s"><tspan fill="#00d8ff">Zedas030</tspan><tspan fill="#e6edf3"> · hobby developer · smart home tinkerer · homelab nerd</tspan></text>
+<g class="l" style="animation-delay:1.59s"><text x="24" y="126" textLength="153" fill="#3fb950">zedas@homelab:~$ </text><text x="177" y="126" textLength="144" fill="#e6edf3">cat projects.txt</text><rect class="c" x="176" y="111" width="156" height="25" fill="#0d1117" style="--w:156px;animation:type 1.12s steps(16) 1.84s forwards"/></g>
+<text class="l" x="24" y="151" textLength="504" lengthAdjust="spacing" style="animation-delay:3.26s"><tspan fill="#00d8ff">▸ </tspan><tspan fill="#00d8ff">JARVIS  </tspan><tspan fill="#e6edf3">voice assistant with memory, runs my apartment</tspan></text>
+<text class="l" x="24" y="176" textLength="459" lengthAdjust="spacing" style="animation-delay:3.48s"><tspan fill="#00d8ff">▸ </tspan><tspan fill="#00d8ff">ORBIT   </tspan><tspan fill="#e6edf3">home network monitoring &amp; security center</tspan></text>
+<text class="l" x="24" y="201" textLength="414" lengthAdjust="spacing" style="animation-delay:3.70s"><tspan fill="#00d8ff">▸ </tspan><tspan fill="#00d8ff">SOLARIS </tspan><tspan fill="#e6edf3">energy dashboard for solar + battery</tspan></text>
+<text class="l" x="24" y="226" textLength="513" lengthAdjust="spacing" style="animation-delay:3.92s"><tspan fill="#00d8ff">▸ </tspan><tspan fill="#00d8ff">CS2     </tspan><tspan fill="#e6edf3">AI agent building cities in Cities: Skylines II</tspan></text>
 <g class="l" style="animation-delay:4.14s"><text x="24" y="251" textLength="153" fill="#3fb950">zedas@homelab:~$ </text><text x="177" y="251" textLength="54" fill="#e6edf3">uptime</text><rect class="c" x="176" y="236" width="66" height="25" fill="#0d1117" style="--w:66px;animation:type 0.42s steps(6) 4.39s forwards"/></g>
-<text class="l" x="24" y="276" textLength="414" lengthAdjust="spacing" style="animation-delay:5.11s"><tspan fill="#8b949e">läuft seit dem ersten Raspberry Pi · </tspan><tspan fill="#f0b429">Kaffee: ∞</tspan></text>
+<text class="l" x="24" y="276" textLength="378" lengthAdjust="spacing" style="animation-delay:5.11s"><tspan fill="#8b949e">up since my first Raspberry Pi · </tspan><tspan fill="#f0b429">coffee: ∞</tspan></text>
 <g class="l" style="animation-delay:5.33s"><text x="24" y="301" textLength="153" fill="#3fb950">zedas@homelab:~$ </text><text x="177" y="301" textLength="144" fill="#e6edf3">sudo make coffee</text><rect class="c" x="176" y="286" width="156" height="25" fill="#0d1117" style="--w:156px;animation:type 1.12s steps(16) 5.58s forwards"/></g>
-<text class="l" x="24" y="326" textLength="387" lengthAdjust="spacing" style="animation-delay:7.00s"><tspan fill="#8b949e">[sudo] </tspan><tspan fill="#3fb950">Zugriff gewährt. Jarvis kocht schon.</tspan></text>
+<text class="l" x="24" y="326" textLength="369" lengthAdjust="spacing" style="animation-delay:7.00s"><tspan fill="#8b949e">[sudo] </tspan><tspan fill="#3fb950">access granted. Jarvis is brewing.</tspan></text>
 <g class="l" style="animation-delay:7.42s"><text x="24" y="351" textLength="153" fill="#3fb950">zedas@homelab:~$ </text><rect class="cur" x="179" y="338" width="9" height="17" fill="#00d8ff"/></g>
 </g>
 </svg>
