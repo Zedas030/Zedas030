@@ -47,8 +47,8 @@
 ### 📊 Statistik
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zedas030&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff&icon_color=00d8ff&locale=de" alt="GitHub-Statistik"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedas030&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff&locale=de&exclude_repo=achievements-playground" alt="Sprachen"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Zedas030/Zedas030/output/stats.svg" alt="GitHub-Statistik"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Zedas030/Zedas030/output/langs.svg" alt="Meistgenutzte Sprachen"/>
 </div>
 
 <div align="center">
