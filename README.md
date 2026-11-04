@@ -52,12 +52,12 @@
 | 🛰️ | **[orbit-netzwerkdoku](https://github.com/Zedas030/orbit-netzwerkdoku)** | Home network monitoring, network docs and security center on a Raspberry Pi. Three websites, no framework. |
 | 🗄️ | **[orbit-rack-demo](https://github.com/Zedas030/orbit-rack-demo)** | Interactive demo of a fictional homelab rack: network map, VLANs, power flow, events. |
 | ☀️ | **[solaris](https://github.com/Zedas030/solaris)** | Local energy dashboard for solar with battery storage. FastAPI + SQLite, data from MQTT, Prometheus or Home Assistant. |
-| 🔋 | **[noah-nulleinspeisung](https://github.com/Zedas030/noah-nulleinspeisung)** | Zero-export control for the Growatt NOAH 2000: drives the battery by household load, with watchdogs. |
+| 🔋 | **[noah-zero-export](https://github.com/Zedas030/noah-zero-export)** | Zero-export control for the Growatt NOAH 2000: drives the battery by household load, with watchdogs. |
 | 🏙️ | **[cs2-agent-helpers](https://github.com/Zedas030/cs2-agent-helpers)** | An AI agent builds cities in Cities: Skylines II: autopilot, grid building, service placement. |
 | 🏠 | **[homeassistant-automationen](https://github.com/Zedas030/homeassistant-automationen)** | Reusable automations: tablet battery care, watchdogs, alerts to the phone. |
 | 📺 | **[fire-tv-debloat](https://github.com/Zedas030/fire-tv-debloat)** | Debloat a Fire TV over ADB: ads, telemetry and bloatware gone, all reversible. |
 
-🇩🇪 Every project also exists in German: just add `-de` to the repo name, e.g. [jarvis-hud-de](https://github.com/Zedas030/jarvis-hud-de).
+🇩🇪 Every project also exists in German: just add `-de` to the repo name, e.g. [jarvis-hud-de](https://github.com/Zedas030/jarvis-hud-de) (one exception: noah-zero-export is [noah-nulleinspeisung-de](https://github.com/Zedas030/noah-nulleinspeisung-de)).
 
 ### 📈 My GitHub History
 
