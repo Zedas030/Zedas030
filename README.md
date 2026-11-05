@@ -51,6 +51,7 @@
 | 🤖 | **[jarvis-hud](https://github.com/Zedas030/jarvis-hud)** | Self-hosted voice assistant with memory, smart home control and a HUD, powered by the Claude Code CLI. |
 | 🧪 | **[restore-probe](https://github.com/Zedas030/restore-probe)** | Proves every night that backups can really be restored: restores them into an isolated sandbox and compares the data with production. |
 | 🧭 | **[homelab-drift](https://github.com/Zedas030/homelab-drift)** | Documentation of the homelab generated from the real system state, with an alert when something undocumented changes. |
+| 💥 | **[blast-radius](https://github.com/Zedas030/blast-radius)** | Automatic dependency map of the homelab and smart home that answers "what fails if X fails?" – with a SPOF list and the likely cause when many Home Assistant entities drop out at once. |
 | 🗄️ | **[orbit-rack-demo](https://github.com/Zedas030/orbit-rack-demo)** | Interactive demo of a fictional homelab rack: network map, VLANs, power flow, events. |
 | 🔋 | **[noah-zero-export](https://github.com/Zedas030/noah-zero-export)** | Zero-export control for the Growatt NOAH 2000: drives the battery by household load, with watchdogs. |
 | 🏙️ | **[cs2-agent-helpers](https://github.com/Zedas030/cs2-agent-helpers)** | An AI agent builds cities in Cities: Skylines II: autopilot, grid building, service placement. |
