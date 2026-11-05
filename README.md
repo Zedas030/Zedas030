@@ -53,6 +53,7 @@
 | 🧭 | **[homelab-drift](https://github.com/Zedas030/homelab-drift)** | Documentation of the homelab generated from the real system state, with an alert when something undocumented changes. |
 | 💥 | **[blast-radius](https://github.com/Zedas030/blast-radius)** | Automatic dependency map of the homelab and smart home that answers "what fails if X fails?" – with a SPOF list and the likely cause when many Home Assistant entities drop out at once. |
 | 📶 | **[zigbee-placement-advisor](https://github.com/Zedas030/zigbee-placement-advisor)** | Watches Zigbee (ZHA) link quality over weeks and tells you which room a new router would help most – with confidence, an honest "not enough data", and an automatic before/after check. |
+| 🛡️ | **[update-airlock](https://github.com/Zedas030/update-airlock)** | Tests container updates (Home Assistant first) in a sealed sandbox against a copy of the real config, holds them back when a breaking change hits an integration in use, updates in a maintenance window and rolls back automatically. |
 | 🗄️ | **[orbit-rack-demo](https://github.com/Zedas030/orbit-rack-demo)** | Interactive demo of a fictional homelab rack: network map, VLANs, power flow, events. |
 | 🔋 | **[noah-zero-export](https://github.com/Zedas030/noah-zero-export)** | Zero-export control for the Growatt NOAH 2000: drives the battery by household load, with watchdogs. |
 | 🏙️ | **[cs2-agent-helpers](https://github.com/Zedas030/cs2-agent-helpers)** | An AI agent builds cities in Cities: Skylines II: autopilot, grid building, service placement. |
